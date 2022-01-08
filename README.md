@@ -1,9 +1,10 @@
 # Hello
 
-👋 Hi, I’m Ron Grant! (@r-e-grant on GitHub)
+# 👋 Hi, I’m Ron Grant! (@r-e-grant on GitHub)
 
+# 👀 I’m interested in ...
 <details>
-  <summary>👀 I’m interested in ...</summary>
+  <summary>Click to expand</summary>
   
   ## Heading
   1. A numbered
@@ -12,8 +13,9 @@
      * Sub bullets
 </details>
 
+# 🌱 I’m currently learning ...
 <details>
-  <summary>🌱 I’m currently learning ...</summary>
+  <summary>Click to expand</summary>
   
   ## Heading
   1. A numbered
@@ -22,8 +24,10 @@
      * Sub bullets
 </details>
 
+# 💞️ I’m looking to collaborate on ...
+
 <details>
-  <summary>💞️ I’m looking to collaborate on ...</summary>
+  <summary>Click to expand</summary>
   
   ## Heading
   1. A numbered
@@ -32,8 +36,10 @@
      * Sub bullets
 </details>
 
+# 📫 How to reach me ...
+
 <details>
-  <summary>📫 How to reach me ...</summary>
+  <summary>Click to expand</summary>
   
   ## Email
   ron.grant@parrotthoughts.org
