@@ -2,6 +2,8 @@
 
 # 👋 Hi, I’m Ron Grant! (@r-e-grant on GitHub)
 
+Please see my profile at <https://r-e-grant.github.io/>.
+
 # 👀 I’m interested in ...
 <details>
   <summary>Click to expand</summary>
